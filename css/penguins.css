@@ -104,3 +104,14 @@ a {
 	color: #bbb;
 	text-decoration: none;
 }
+
+#forkme {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	z-index: 10000;
+}
+
+.forkme {
+	border: 0px;
+}
